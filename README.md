@@ -11,7 +11,7 @@
 # Formulário Cadastro Ecommerce
 
 ## Descrição 📖
-- Este projeto é um formulário de contato básico em HTML, criado como parte de um exercício de prática. Ele permite que os usuários preencham informações e enviem mensagens através do formulário. É uma ótima maneira de aprender os conceitos básicos de criação de formulários em HTML.
+- Este projeto consiste na criação de um site de cadastro de clientes, inspirado em elementos encontrados em três sites de e-commerce. O site permite aos usuários fornecer informações essenciais, como nome, endereço e detalhes de contato, simplificando o processo de registro. Este trabalho destina-se a demonstrar nossas habilidades em HTML e nossa capacidade de sintetizar informações de várias fontes para desenvolver uma solução única.
 
 ## Introdução ✉️
 - Preenchimento de dados em um formulário de contatos
