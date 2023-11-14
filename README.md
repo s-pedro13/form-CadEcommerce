@@ -18,7 +18,12 @@
 <img src="img/cadastro.png">
 
 ## Sites Consultados 🧠
-- Aprender a construir uma tabela de formulário de contatos em HTML5
+- Os sites explorados nessa pesquisa foram:
+- [Shopee](https://shopee.com.br)
+- [Renner](https://www.lojasrenner.com.br)
+- [Amazon](https://www.amazon.com.br)
+- Todos em busca de inspiração e variedade, que possiblitaram na criação do nosso próprio Formulário de Ecommerce
+
 
 ## Tecnologias Utilizadas 🖥️  
 - Visual Studio Code;
