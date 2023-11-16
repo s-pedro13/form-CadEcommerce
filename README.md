@@ -24,6 +24,8 @@
 - [Amazon](https://www.amazon.com.br)
 - Todos em busca de inspiração e variedade, que possiblitaram na criação do nosso próprio Formulário de Ecommerce
 
+## Funcionalidades 🔊
+- Aprender a construir formulário para cadastro em sites dd Ecommerce em HTML5
 
 ## Tecnologias Utilizadas 🖥️  
 - Visual Studio Code;
